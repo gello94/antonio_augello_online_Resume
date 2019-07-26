@@ -1,3 +1,7 @@
+#page-top{
+    margin-top: 0px;
+}
+
 #sideNav .navbar-brand .img-profile {
     border: 0px;
 }
@@ -54,4 +58,9 @@
 .portfolio-section {
     padding: 20px;
     width: 100%;
+}
+
+.table {
+table-layout:fixed;
+    width:100%;
 }
