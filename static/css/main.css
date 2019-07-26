@@ -14,7 +14,7 @@
 
 @media (min-width: 992px) {
     #sideNav .navbar-brand {
-        
+
         padding-bottom: 1.5rem;
     }
 }
@@ -42,3 +42,16 @@
         padding-top: 2rem!important;
         padding-bottom: 2rem!important;
     }
+}
+
+.img_portfolio {
+    height: auto;
+    max-height: 85%;
+    width: auto;
+    max-width: 85%;
+}
+
+.portfolio-section {
+    padding: 20px;
+    width: 100%;
+}
