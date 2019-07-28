@@ -1,1 +1,1 @@
-https://startbootstrap.com/themes/resume/
+Template from: https://startbootstrap.com/themes/resume/
