@@ -29,6 +29,15 @@ For this project I used:
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
     - The project uses **CSS3** to style the html content.
 
+- [Python](https://www.python.org/)
+    - The project uses **https://www.python.org/** to build the full stack web app.
+    
+- [Flask Framework](https://palletsprojects.com/p/flask/)
+    - The project uses **Flask Framework**.
+
+- [Jinja Framework](https://palletsprojects.com/p/jinja/)
+    - The project uses **Jinja Framework**.
+    
 - [Bootstrap](https://getbootstrap.com/)
     - The project uses **Bootstrap** to Layout the html content on different screen sizes.
 
